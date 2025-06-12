@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\fontawesome.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fontawesome.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\animate.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:animate.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\flex-slider.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:flex-slider.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\owl.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:owl.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\templatemo-woox-travel.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templatemo-woox-travel.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fontawesome.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\fontawesome.css",
+              "RelativeDocumentMoniker": "fontawesome.css",
+              "ToolTip": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\fontawesome.css",
+              "RelativeToolTip": "fontawesome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T23:33:02.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "templatemo-woox-travel.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\templatemo-woox-travel.css",
+              "RelativeDocumentMoniker": "templatemo-woox-travel.css",
+              "ToolTip": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\templatemo-woox-travel.css",
+              "RelativeToolTip": "templatemo-woox-travel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T23:31:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "owl.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\owl.css",
+              "RelativeDocumentMoniker": "owl.css",
+              "ToolTip": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\owl.css",
+              "RelativeToolTip": "owl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T23:31:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "flex-slider.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\flex-slider.css",
+              "RelativeDocumentMoniker": "flex-slider.css",
+              "ToolTip": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\flex-slider.css",
+              "RelativeToolTip": "flex-slider.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T23:31:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\animate.css",
+              "RelativeDocumentMoniker": "animate.css",
+              "ToolTip": "C:\\Users\\PC\\Dropbox\\My PC (DukagjinLeka)\\Desktop\\templatemo_580_woox_travel\\assets\\css\\animate.css",
+              "RelativeToolTip": "animate.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T23:31:35.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
